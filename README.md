@@ -1,1 +1,1 @@
-# ML_notes
+# THIS IS WHERE I TALK ML 
